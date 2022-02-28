@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HeroApp</string>
+
+    <string name="bot_home_title">Inicio</string>
+    <string name="bot_favorite_title">Favoritos</string>
+
+    <string name="fragment_home_search_title">Buscar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
